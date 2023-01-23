@@ -1,6 +1,6 @@
 ## Desafio Engenharia de Dados
 
-O projeto consiste em um desafio proposto pela empresa Raccoon.
+O projeto consiste em um desafio de Engenharia de Dados.
 
 ## Objetivo do Desafio
 
