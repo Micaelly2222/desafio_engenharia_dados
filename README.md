@@ -1,6 +1,8 @@
-## Desafio Engenharia de Dados
+# Desafio Engenharia de Dados
 
-O projeto consiste em um desafio de Engenharia de Dados.
+## Visão Geral
+
+Este projeto é um desafio de Engenharia de Dados que visa responder a várias perguntas relacionadas aos gastos e participação das pessoas em shows. As perguntas incluem média de gastos de pessoas com ingresso Pista, pessoas ausentes nos shows, pessoas que compraram ingressos com concorrentes, dia com maior gasto e uma lista de clientes que desistiram de comprar ingressos com a AT, incluindo o valor gasto durante os shows e quais shows eles desistiram de comprar.
 
 ## Objetivo do Desafio
 
@@ -11,7 +13,10 @@ O projeto consiste em um desafio de Engenharia de Dados.
 - Qual o dia com maior gasto?
 - Faça uma lista com os clientes que desistiram de comprar o ingresso com a AT, a soma do valor que foi gasto durante os shows e quais shows eles desistiram de comprar
 
-**Para isso foi utilizado as seguintes linguagens e ferramentas**
+## Ferramentas Utilizadas
 
 * [Jupyter Notebook](https://jupyter.org/), aplicação online que permite criar e compartilhar código interativo
 * [Pandas](https://pypi.org/project/pandas/), biblioteca para análise e manipulação de dados
+
+## Requisitos Mínimos de Instalação
+* Python (versão 3.6 ou superior)
